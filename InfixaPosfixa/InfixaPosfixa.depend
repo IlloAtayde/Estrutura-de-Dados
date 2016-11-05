@@ -1,0 +1,277 @@
+# depslib dependency file v1.0
+1468804429 source:c:\infixaposfixa\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1468806302 source:c:\infixaposfixa\expressaoinfixavalida.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"expressaoInfixaValida.h"
+	"pilhaEnc.h"
+
+1468806180 c:\infixaposfixa\expressaoinfixavalida.h
+
+1468720750 c:\infixaposfixa\pilhaenc.h
+
+1468721675 source:c:\infixaposfixa\pilhaenc.c
+	<stdlib.h>
+	<stdio.h>
+	"pilhaEnc.h"
+
+1468806154 source:c:\infixaposfixa\obteroperandos.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"obterOperandos.h"
+	"pilhaEnc.h"
+
+1468806180 c:\infixaposfixa\obteroperandos.h
+
+1468868547 source:c:\infixaposfixa_v0.1\expressaoinfixavalida.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"expressaoInfixaValida.h"
+	"pilhaEnc.h"
+
+1468868547 c:\infixaposfixa_v0.1\expressaoinfixavalida.h
+
+1468709952 c:\infixaposfixa_v0.1\pilhaenc.h
+
+1468795684 source:c:\infixaposfixa_v0.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1468710876 source:c:\infixaposfixa_v0.1\pilhaenc.c
+	<stdlib.h>
+	<stdio.h>
+	"pilhaEnc.h"
+
+1468954563 source:c:\infixaposfixa_v0.1\obteroperandos.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"obterOperandos.h"
+	"pilhaEnc.h"
+	"ordCresArray.h"
+
+1468795382 c:\infixaposfixa_v0.1\obteroperandos.h
+
+1468955053 source:c:\infixaposfixa_v0.1\ordcresarray.c
+	<string.h>
+	"ordCresArray.h"
+
+1468955053 c:\infixaposfixa_v0.1\ordcresarray.h
+
+1468879346 source:c:\infixaposfixa_v0.2\expressaoinfixavalida.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"expressaoInfixaValida.h"
+	"pilhaEnc.h"
+
+1468879346 c:\infixaposfixa_v0.2\expressaoinfixavalida.h
+
+1468720752 c:\infixaposfixa_v0.2\pilhaenc.h
+
+1469319916 source:c:\infixaposfixa_v0.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"obterOperandos.h"
+	"expressaoInfixaValida.h"
+	"converteInfixaParaPosfixa.h"
+
+1468806182 c:\infixaposfixa_v0.2\obteroperandos.h
+
+1468965362 source:c:\infixaposfixa_v0.2\obteroperandos.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"obterOperandos.h"
+	"pilhaEnc.h"
+	"ordCresArray.h"
+
+1468965852 c:\infixaposfixa_v0.2\ordcresarray.h
+
+1468965852 source:c:\infixaposfixa_v0.2\ordcresarray.c
+	<string.h>
+	"ordCresArray.h"
+
+1468721676 source:c:\infixaposfixa_v0.2\pilhaenc.c
+	<stdlib.h>
+	<stdio.h>
+	"pilhaEnc.h"
+
+1469318876 source:c:\infixaposfixa_v0.2\converteinfixaparaposfixa.c
+	"converteInfixaParaPosfixa.h"
+	"pilhaEnc.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1469309993 c:\infixaposfixa_v0.2\converteinfixaparaposfixa.h
+
+1469392414 source:c:\infixaposfixa_v0.4\auxbibli.c
+	<string.h>
+	"auxBibli.h"
+
+1469392068 c:\infixaposfixa_v0.4\auxbibli.h
+
+1469397164 source:c:\infixaposfixa_v0.4\conversor.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"conversor.h"
+	"pilha.h"
+	"auxBibli.h"
+
+1469395273 c:\infixaposfixa_v0.4\conversor.h
+
+1469395566 c:\infixaposfixa_v0.4\pilha.h
+
+1469394182 source:c:\infixaposfixa_v0.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conversor.h"
+	"auxBibli.h"
+
+1469395566 source:c:\infixaposfixa_v0.4\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"pilha.h"
+
+1469403133 source:c:\infixaposfixa_v0.5\auxbibli.c
+	<string.h>
+	<stdio.h>
+	"auxBibli.h"
+
+1469392068 c:\infixaposfixa_v0.5\auxbibli.h
+
+1469402966 source:c:\infixaposfixa_v0.5\conversor.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"conversor.h"
+	"pilha.h"
+	"auxBibli.h"
+
+1469395273 c:\infixaposfixa_v0.5\conversor.h
+
+1469395566 c:\infixaposfixa_v0.5\pilha.h
+
+1469395566 source:c:\infixaposfixa_v0.5\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"pilha.h"
+
+1469401438 source:c:\infixaposfixa_v0.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conversor.h"
+	"auxBibli.h"
+
+1469450681 source:c:\infixaposfixa_v0.6\auxbibli.c
+	<string.h>
+	<stdio.h>
+	"auxBibli.h"
+
+1469450936 c:\infixaposfixa_v0.6\auxbibli.h
+
+1469450266 source:c:\infixaposfixa_v0.6\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"pilha.h"
+
+1469450936 c:\infixaposfixa_v0.6\pilha.h
+
+1469462384 source:c:\infixaposfixa_v0.6\conversor.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"conversor.h"
+	"pilha.h"
+	"auxBibli.h"
+
+1469450936 c:\infixaposfixa_v0.6\conversor.h
+
+1469452717 source:c:\infixaposfixa_v0.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conversor.h"
+	"auxBibli.h"
+
+1469587514 source:c:\infixaposfixa_v0.7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"conversor.h"
+	"auxBibli.h"
+
+1469461736 c:\infixaposfixa_v0.7\conversor.h
+
+1469580847 c:\infixaposfixa_v0.7\auxbibli.h
+
+1469461066 source:c:\infixaposfixa_v0.7\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"pilha.h"
+
+1469461736 c:\infixaposfixa_v0.7\pilha.h
+
+1469581021 source:c:\infixaposfixa_v0.7\auxbibli.c
+	<string.h>
+	<stdio.h>
+	"auxBibli.h"
+
+1469582593 source:c:\infixaposfixa_v0.7\conversor.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"conversor.h"
+	"pilha.h"
+	"auxBibli.h"
+
+1469638046 source:c:\infixaposfixa_v0.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"conversor.h"
+	"auxBibli.h"
+
+1469450936 c:\infixaposfixa_v0.8\conversor.h
+
+1469638613 c:\infixaposfixa_v0.8\auxbibli.h
+
+1469450266 source:c:\infixaposfixa_v0.8\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"pilha.h"
+
+1469450936 c:\infixaposfixa_v0.8\pilha.h
+
+1469638613 source:c:\infixaposfixa_v0.8\auxbibli.c
+	<string.h>
+	<stdio.h>
+	"auxBibli.h"
+
+1469638785 source:c:\infixaposfixa_v0.8\conversor.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"conversor.h"
+	"pilha.h"
+	"auxBibli.h"
+

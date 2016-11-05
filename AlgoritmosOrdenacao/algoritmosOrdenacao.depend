@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1472226960 source:c:\algoritmosordenacao\geraarray.c
+	<stdlib.h>
+	<stdio.h>
+	"geraArray.h"
+
+1472226903 c:\algoritmosordenacao\geraarray.h
+
+1472227610 source:c:\algoritmosordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+	<sys/time.h>
+	"geraArray.h"
+
+1472417281 source:c:\algoritmosordenacao_v04\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+	<sys/time.h>
+	"geraArray.h"
+
+1472403483 c:\algoritmosordenacao_v04\geraarray.h
+
+1472417332 source:c:\algoritmosordenacao_v04\geraarray.c
+	<stdlib.h>
+	<stdio.h>
+	"geraArray.h"
+
+1472480817 source:c:\algoritmosordenacao_v05\geraarray.c
+	<stdlib.h>
+	<stdio.h>
+	"geraArray.h"
+
+1472392684 c:\algoritmosordenacao_v05\geraarray.h
+
+1472480708 source:c:\algoritmosordenacao_v05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+	<sys/time.h>
+	"geraArray.h"
+
+1472484420 source:c:\algoritmosordenacao_v05\hr_time.c
+	<windows.h>
+	"hr_time.h"
+
+1472484420 c:\algoritmosordenacao_v05\hr_time.h
+
+1472480817 source:c:\algoritmosordenacao_v06\geraarray.c
+	<stdlib.h>
+	<stdio.h>
+	"geraArray.h"
+
+1472392684 c:\algoritmosordenacao_v06\geraarray.h
+
+1472486307 source:c:\algoritmosordenacao_v06\hr_time.c
+	<windows.h>
+	"hr_time.h"
+
+1472484420 c:\algoritmosordenacao_v06\hr_time.h
+
+1472485972 source:c:\algoritmosordenacao_v06\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<conio2.h>
+	<windows.h>
+	<sys/time.h>
+	"geraArray.h"
+	"hr_time.h"
+
